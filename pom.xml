@@ -8,8 +8,6 @@
     <artifactId>MavenWarmup</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    // dependencies go here
-    // any time you make changes you have to right click and go to maven and reload project.
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
